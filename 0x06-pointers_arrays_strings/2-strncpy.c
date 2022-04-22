@@ -10,6 +10,7 @@ char *_strncpy(char *dest, char *src, int n)
 {
 	int x = 0;
 	int y = 0;
+
 	while (src[y])
 	{
 		y++;
@@ -24,3 +25,5 @@ char *_strncpy(char *dest, char *src, int n)
 		dest[x] = '\0';
 		x++;
 	}
+	return (dest);
+}
