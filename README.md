@@ -3,4 +3,4 @@ My first readme
 
 # FIRST SPRINT
 
-## C programming
+## C programming alx
