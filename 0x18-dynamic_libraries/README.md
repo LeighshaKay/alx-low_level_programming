@@ -1,1 +1,1 @@
-Dynamic libraries
+Higher level programming
